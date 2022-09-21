@@ -9,10 +9,85 @@
     <title>Gestion de Empleados</title>
     <link rel="shortcut icon" href="/webApp/img/plataforma-icon.png" />
     <link rel="stylesheet" href="/webApp/styles/style.css">
+    <link rel="stylesheet" href="/webApp/styles/styleUsersPage.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
 
 </head>
 <body>
+
+    
+    <div class="container-index">
+
+        <div class="header">
+            
+            <div class="header-logo">
+
+                <a href="/webApp/index.html">
+                    <img src="/webApp/img/logo-plataforma.png" alt="logo plataforma" class="logo">
+                </a>
+
+            </div>
+
+            <div class="header-options">
+
+                <nav class="header-nav">
+                    <a id="a" href="#">Inicio</a>
+                    <a id="a" href="#">Convenios</a>
+                    <a id="a" href="#">Nosotros</a>
+                    <a id="a" href="#">Contacto</a>
+                </nav>
+
+            </div>
+
+        </div>
+
+        <div class="section-01">
+
+            <div class="div-section01-info">
+                    
+                    <h4 class="h4-section01">Plataforma para la gestion de empleados</h4>
+                    <p class="p-section01">
+                        Selecciona el tipo de usuario con el que quieres ingresar a la plataforma <br> <span class="span-ClickAqui"> <a href="#">Click Aqui</a></span> para mayor informacion.
+                    </p>
+            </div>
+
+        </div>
+
+        <section class="section02-user-page">
+            
+                <div class="div-title-tipo-usuario">
+                    <h2 class="h2-tipo-usuario">Tipo de Usuario</h2>
+                </div>
+    
+
+            <div class="div-button-user-page">
+
+                <div class="div-linea-vertical"></div>
+
+                <div class="div-super-admin">
+                    <a href="/webApp/pages/userLoginPages/superAdmin.html">
+                        <button id="button-user-page">Super Administrador</button>
+                    </a>
+                </div>
+
+                <div class="div-admin">
+                    <a href="/webApp/pages/userLoginPages/admin.html">
+                        <button id="button-user-page">Administrador</button>
+                    </a>
+                </div>
+
+                <div class="div-usuario">
+                    <a href="/webApp/pages/userLoginPages/empleado.html">
+                        <button id="button-user-page">Usuario</button>
+                    </a>
+                </div>
+
+
+            </div>
+
+        </section>
+
+    </div>
     
 </body>
 </html>

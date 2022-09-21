@@ -1,0 +1,54 @@
+.section02-users-page {
+    overflow:hidden;
+    display: inline-block;
+    width: 100%;
+    
+}
+
+.div-title-tipo-usuario {
+    font-family: 'Courier New Bold';
+    padding-top: 13% !important;
+    padding-left: 25%;
+    text-align: left;
+    display: inline-block;
+    color: #797979;
+}
+
+.div-button-user-page{
+    padding-right: 30%;
+    padding-top: 7%;
+    float: right;
+}
+
+
+
+.div-admin{
+    padding-top: 23%;
+}
+
+.div-usuario{
+    padding-top: 23%;
+}
+
+#button-user-page{
+    padding: 8px;
+    border-radius: 20px;
+    width: 200px;
+    color: #F8F8F8;
+    background-color: #5e9bf5;
+    position: relative;
+    display: inline-block;
+}
+
+#button-user-page:hover{
+    background-color: #3985F5;
+}
+
+.div-linea-vertical{
+    border-left: 1px solid #797979;
+    height: 50%;
+    position: absolute;
+    left: 45%;
+    margin-left: -3px;
+    top: 40%;
+}
