@@ -1,0 +1,196 @@
+#h4-login {
+    position: absolute;
+    width: 520px;
+    height: 50px;
+    left: 700px;
+    top: 200px;
+            
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 56px;
+        
+    color: #6A6A6A;
+}
+
+#p-footer {
+    position: absolute;
+    width: 500px;
+    height: 30px;
+    left: 640px;
+    top: 650px;
+        
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+        
+    color: #666666;
+}
+
+
+
+.btn {
+    position: absolute;
+    width: 115px;
+    height: 50px;
+    left: 1230px;
+    top: 600px;
+    
+    
+    border: 1px solid #1B7CD6;
+    padding: 20px 50px; 
+    background-color: #1B7CD6;
+    text-decoration: none;
+    color: #F8F8F8; 
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 45px;
+    border-radius: 40px;
+    }
+
+.btn:hover {
+    background-color: #223094;
+    }
+
+.btn_gen {
+    text-decoration: none;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 35px;
+
+    color: #666666;
+    }
+
+.btn1 {
+    position: absolute;
+    width: 290px;
+    height: 50px;
+    left: 900px;
+    top: 300px;
+        
+    border: 1px solid #1B7CD6;
+    padding: 20px 50px; 
+    background-color: #1B7CD6;
+    text-decoration: none;
+    color: #F8F8F8; 
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 45px;
+    border-radius: 40px;
+    }
+    
+.btn1:hover {
+    background-color: #223094;
+    }
+
+.btn2 {
+    position: absolute;
+    width: 290px;
+    height: 50px;
+    left: 900px;
+    top: 420px;
+            
+    border: 1px solid #1B7CD6;
+    padding: 20px 50px; 
+    background-color: #1B7CD6;
+    text-decoration: none;
+    color: #F8F8F8; 
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 45px;
+    border-radius: 40px;
+    }
+        
+.btn2:hover {
+    background-color: #223094;
+    }
+
+.btn3 {
+    position: absolute;
+    width: 290px;
+    height: 50px;
+    left: 900px;
+    top: 540px;
+                
+    border: 1px solid #1B7CD6;
+    padding: 20px 50px; 
+    background-color: #1B7CD6;
+    text-decoration: none;
+    color: #F8F8F8; 
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 45px;
+    border-radius: 40px;
+    }
+            
+.btn3:hover {
+    background-color: #223094;
+    }
+
+form{
+    position: absolute;
+    width: 290px;
+    height: 100px;
+    left: 600px;
+    top: 330px;
+
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+
+    color: #666666;
+    }
+
+form input{
+    width: 300px;
+    height: 25px;
+
+    padding: 3px 10px;
+    border: 1px solid #f6f6f6;
+    border-radius: 20px;
+    margin: 0px 0px;
+    display: inline-block;
+    background-color: #ccc;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    }
+
+.btn4 {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 650px;
+    top: 530px;
+        
+    border: 1px solid #1B7CD6;
+    padding: 10px 10px; 
+    background-color: #1B7CD6;
+    text-decoration: none;
+    color: #F8F8F8; 
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 45px;
+    border-radius: 40px;
+    }
+    
+.btn4:hover {
+    background-color: #223094;
+    }
+
